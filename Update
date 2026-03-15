@@ -1,0 +1,20 @@
+UPDATE - Crowley v1.0.0
+
+Release Status
+This build is an early public release of Crowley.
+
+Updates & Distribution
+All future updates will be distributed exclusively through official
+Recovery Beats channels.
+
+Updates / Changes will appear here:
+
+Updates as February 5, 2026
+
+• Rebuilt Hard / Bias distortion core
+• Bias now applies true pre-distortion asymmetry
+• Hard mode now morphs the saturation curve instead of simple clipping
+• Improved harmonic density and punch at higher Drive settings
+• More consistent gain behavior across Drive, Heat, and Mix
+
+Thank you for supporting Recovery Beats.
